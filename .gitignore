@@ -1,3 +1,9 @@
+# Ignore C++ files
+*.cpp
+*.h
+*.hpp
+# Ignore build-related files
+CMakeLists.txt
 # Miscellaneous
 *.class
 *.log
